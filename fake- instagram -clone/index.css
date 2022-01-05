@@ -1,0 +1,140 @@
+body {
+    margin: 0px;
+    border: 0px;
+}
+
+#allMenu {
+    display: flex;
+    margin-left: 35em;
+    margin-top: 6em;
+}
+
+.fldstFirst fieldset {
+    width: 21em;
+    height: 24em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+}
+
+.fldstEnd fieldset {
+    width: 24.5em;
+    height: 3em;
+    margin-left: 1em;
+}
+
+.fldstFirst img {
+    margin-left: 3em;
+}
+
+.fldstFirst form {
+    margin-top: 1.5em;
+}
+
+.fldstFirst input {
+    margin-left: 2em;
+    width: 18em;
+    height: 2em;
+    border-radius: 2px;
+    border: 0.25px ridge rgb(0, 0, 0);
+    margin-top: 0.45em;
+}
+
+.fldstFirst input::placeholder {
+    color: #000;
+    font-size: 12px;
+    opacity: 0.4;
+}
+
+.fldstFirst button {
+    margin-left: 1.5em;
+    margin-top: 1em;
+    width: 19em;
+    height: 2.2em;
+    background-color: #00b8a8;
+    border-radius: 7px;
+    opacity: 0.4;
+}
+
+.fldstFirst a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.hrTag {
+    display: flex;
+    margin-top: 1em;
+}
+
+.hrTag hr {
+    height: 0px;
+    width: 100px;
+    border: 0.15px solid;
+    opacity: 0.6;
+    margin-top: 1em;
+}
+
+.hrTag p {
+    opacity: 0.6;
+    font-size: 12px;
+}
+
+
+/* log in facebook account and logo  style */
+
+.fcbkImg {
+    display: flex;
+    margin-top: 0.25em;
+    margin-left: 1em;
+}
+
+.fcbkImg a {
+    text-decoration: none;
+    display: flex;
+}
+
+.fcbkImg img {
+    margin-top: 1em;
+}
+
+.fcbkImg h4 {
+    color: #020e7a;
+    font-size: 14px;
+    margin-left: 0.25em;
+    opacity: 0.7;
+}
+
+.forgotPasswd p {
+    text-align: center;
+    font-size: 12px;
+    color: #020e7a;
+}
+
+.fldstEnd {
+    font-size: 14px;
+}
+
+.fldstEnd p {
+    text-align: center;
+}
+
+.fldstEnd a {
+    text-decoration: none;
+    color: #007e73;
+}
+
+.appTıtle p {
+    text-align: center;
+}
+
+.appImg {
+    display: flex;
+    margin-left: 4em;
+}
+
+.appImg img {
+    margin-right: 0.55em;
+}
+
+
+/*END INFOS BAR STYLE */
