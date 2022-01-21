@@ -12,7 +12,6 @@ hot_2022-01-06 Instagram](https://user-images.githubusercontent.com/91744618/148
    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://alanyavitahomes.com/SiteFolder/img/email.png" width="72px"> </a> 
  
  </div>
-
  
  <div id="tools">
  <h2> Languages and tools:  </h2><br>
@@ -22,7 +21,6 @@ hot_2022-01-06 Instagram](https://user-images.githubusercontent.com/91744618/148
  <img src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b18a4d1e9b86c8987dc0e5aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
  
 
- 
  </div>
  
 <br>
