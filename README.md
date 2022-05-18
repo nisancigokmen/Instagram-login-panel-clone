@@ -28,4 +28,4 @@ hot_2022-01-06 Instagram](https://user-images.githubusercontent.com/91744618/148
 &copy; Gökmen Nişancı / Web Developer. &#x2764;
   <br> <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318f9ee&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
